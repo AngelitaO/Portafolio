@@ -1,6 +1,6 @@
 # Portafolio-Personal
-Este es el portafolio personal
+l
 
 Este es el repositorio del portafolio Personal de Angela Ochoa 🕹
 
-Portafolio profesional
+Aqui vamos a mostrar los trabajos de programacion Web. 🖥
